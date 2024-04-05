@@ -4,16 +4,10 @@
 I am a passionate full-stack web developer with a keen interest in crafting robust and efficient solutions. With a blend of creativity and technical skills, I strive to build web applications that not only meet but exceed expectations. My journey in the world of programming has been exciting, and I'm always eager to learn and explore new technologies.
 
 ## Skills
-- **Frontend**: HTML, CSS, JavaScript, React.js, Angular
+- **Frontend**: HTML, CSS, JavaScript, PHP, React.js, Angular
 - **Backend**: Node.js, Express.js, Django, Flask
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Other Technologies**: Git, RESTful APIs, GraphQL
-
-## Projects
-Here are a few projects that I've worked on:
-1. [Project Name](link): Brief description of the project.
-2. [Project Name](link): Brief description of the project.
-3. [Project Name](link): Brief description of the project.
 
 Feel free to explore my repositories for more projects and contributions.
 

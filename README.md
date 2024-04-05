@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @wasinoori
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to the GitHub Profile of wasinoori!
 
-<!---
-wasinoori/wasinoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a passionate full-stack web developer with a keen interest in crafting robust and efficient solutions. With a blend of creativity and technical skills, I strive to build web applications that not only meet but exceed expectations. My journey in the world of programming has been exciting, and I'm always eager to learn and explore new technologies.
+
+## Skills
+- **Frontend**: HTML, CSS, JavaScript, React.js, Angular
+- **Backend**: Node.js, Express.js, Django, Flask
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Other Technologies**: Git, RESTful APIs, GraphQL
+
+## Projects
+Here are a few projects that I've worked on:
+1. [Project Name](link): Brief description of the project.
+2. [Project Name](link): Brief description of the project.
+3. [Project Name](link): Brief description of the project.
+
+Feel free to explore my repositories for more projects and contributions.
+
+## Contact Me
+- **Email**: wasinoori243@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/wasinoori/)
+- **Portfolio**: [Your Portfolio Website](https://www.facebook.com/wasinoori10/)
+
+## Let's Connect!
+I'm always open to collaboration and discussions. Feel free to reach out to me for any inquiries or just to say hi! 😊

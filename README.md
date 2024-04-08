@@ -13,8 +13,7 @@ Feel free to explore my repositories for more projects and contributions.
 
 ## Contact Me
 - **Email**: wasinoori243@gmail.com
-- **LinkedIn**: [Wasi Noori](https://www.linkedin.com/in/wasinoori/)
-- **Portfolio**: [Facebook](https://www.facebook.com/wasinoori10/)
+- **Facebook**: [Wasi Noori](https://www.facebook.com/wasinoori10/)
 
 ## Let's Connect!
 I'm always open to collaboration and discussions. Feel free to reach out to me for any inquiries or just to say hi! 😊

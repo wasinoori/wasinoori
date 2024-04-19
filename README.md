@@ -7,7 +7,6 @@ I am a passionate full-stack web developer with a keen interest in crafting robu
 
 
 
-
 ## Skills
 - **Frontend**: HTML, CSS, JavaScript, PHP, React.js, Angular
 - **Backend**: Node.js, Express.js, Django, Flask

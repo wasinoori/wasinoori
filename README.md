@@ -107,13 +107,9 @@ Some of my major projects include:
 
 📧 **Email**
 
-**wasinoori243@gmail.com**
+**texttowasi@gmail.com**
 
-🌐 **Facebook**
 
-https://facebook.com/wasinoori10
-
----
 
 ## 💡 Quote
 

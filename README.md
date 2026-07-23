@@ -1,122 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abdul Wasi Noori</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer • AI Engineer • Founder of Dars Academy
-</h3>
+# Abdul Wasi Noori
 
-<p align="center">
-Building modern web applications, AI-powered products, and beautiful user experiences.
-</p>
+**Full-Stack Developer · AI Engineer · Product Designer**
 
----
+I build thoughtful digital products where technology, design, and real-world impact meet.
 
-## 🚀 About Me
+[Email](mailto:wasinoori243@gmail.com) · [Dars Academy](https://darsacademy.online) · [Facebook](https://www.facebook.com/wasinoori10)
 
-I'm a passionate **Full-Stack Developer** and **AI Engineer** from Afghanistan.
-
-I enjoy building products that combine clean design, scalable architecture, and practical AI solutions.
-
-Currently I'm working on:
-
-- 🚀 Modern SaaS applications
-- 🤖 AI-powered products & automation
-- 🌐 Full-stack web development
-- 🎨 UI/UX & Product Design
-- 📚 Educational technology through **Dars Academy**
-
-I believe software should be:
-
-- Clean
-- Fast
-- Accessible
-- Beautiful
-- Built for real users
+</div>
 
 ---
 
-## 💻 Tech Stack
+### About
 
-### Frontend
+I am a full-stack developer and AI engineer focused on building modern, reliable, and human-centered digital products.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
+My work spans web development, product design, artificial intelligence, automation, and education technology. I care deeply about clarity, usability, performance, and creating products that solve meaningful problems.
 
-### Backend
+I am also the founder of **Dars Academy**, an educational platform working to make quality learning more accessible.
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,django" />
-</p>
+### What I Work On
 
-### Database
+* Full-stack web applications
+* AI-powered tools and automation
+* SaaS products and digital platforms
+* Product design and user experience
+* Education technology
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+### Technology
 
-### Tools
+**Frontend**
+JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,pnpm" />
-</p>
+**Backend**
+PHP, Node.js, Express, Python, Django
 
-### Currently Learning
+**Data**
+MySQL, PostgreSQL, MongoDB
 
-- AI Engineering
-- Large Language Models (LLMs)
-- Next.js
-- System Design
-- Cloud Infrastructure
+**Tools**
+Git, GitHub, Figma, Postman, Playwright
 
----
+### Selected Work
 
-## 🌟 Featured Projects
+**[Dars Academy](https://darsacademy.online)**
+An education platform designed to make high-quality learning accessible to more people.
 
-🚧 Coming Soon...
+**[Profile.af](https://profile.af)**
+A modern platform for creating professional personal profiles, portfolios, and career pages.
 
-Some of my major projects include:
+**AI & Automation**
+Practical AI tools, intelligent workflows, and automation systems built around real user needs.
 
-- AI Applications
-- SaaS Platforms
-- Dars Academy
-- Portfolio Platform
-- Modern Dashboards
-- Automation Tools
+### Principles
 
----
+I believe good software should be:
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wasinoori&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=wasinoori&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasinoori&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+* Simple to understand
+* Reliable in production
+* Thoughtfully designed
+* Accessible to real users
+* Built with purpose
 
 ---
 
-## 🌍 Connect With Me
+<div align="center">
 
-📧 **Email**
+Open to meaningful collaborations, ambitious products, and ideas worth building.
 
-**texttowasi@gmail.com**
+**[wasinoori243@gmail.com](mailto:wasinoori243@gmail.com)**
 
-
-
-## 💡 Quote
-
-> *"Great software isn't just code — it's solving real problems for real people."*
-
----
-
-<p align="center">
-Thanks for visiting my profile ❤️
-</p>
+</div>
